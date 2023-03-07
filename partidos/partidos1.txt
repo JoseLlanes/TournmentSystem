@@ -1,1 +1,10 @@
-
+Team N - Team L ; 10 - 0 ; 0 - 0 
+Team Q - Team A ; 10 - 0 ; 0 - 1 
+Team R - Team E ; 10 - 0 ; 0 - 1 
+Team O - Team H ; 10 - 0 ; 0 - 0 
+Team S - Team T ; 4 - 8 ; 0 - 0 
+Team M - Team G ; 4 - 8 ; 2 - 0 
+Team F - Team B ; 4 - 7 ; 2 - 1 
+Team I - Team P ; 4 - 8 ; 2 - 0 
+Team K - Team C ; 2 - 2 ; 0 - 0 
+Team D - Team J ; 3 - 3 ; 0 - 0 
